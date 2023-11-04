@@ -1,4 +1,4 @@
-## Guía para Documentar Cambios en la Página Web
+## Guía para Documentar Cambios en el BackEnd
 
 Toda la documentación sera escrita en archivos MarkDown.
 
